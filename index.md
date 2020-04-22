@@ -7,6 +7,7 @@
 ### Usage
 
 ![Image](https://i.imgur.com/ka1L0OY.jpg)
+
 โปรแกรมจะแบ่งออกเป็น 3ส่วนคือ 
 
 ### 1.
