@@ -1,14 +1,13 @@
 ## โปรแกรมบันทึกรายรับ-รายจ่าย
 
 ### Overview
-
 Income and Expense Record Program is a program for record your income and expense daily or monthly or each year to save money and manage your own money with stability and sustainability\nโปรแกรมบันทึกรายรายรับ-รายจ่ายเป็นโปรแกรมจัดทำขึ้นเพื่อวัตถุประสงค์ให้ผู้ใช้งานสามารถใช้โปรแกรมในการบันทึกรายรับรายจ่ายในแต่ละวันหรือแต่ละเดือนหรือในแต่ละปีได้ เพื่อใช้ในการเก็บออมเงิน และบริหารเงินของตนเองได้อย่างมั่นคงและยั่งยืน
 
 ### Usage
 
 ![Image](https://i.imgur.com/ka1L0OY.jpg)
 
-โปรแกรมจะแบ่งออกเป็น 3ส่วนคือ 
+The program devide to 3 parts\nโปรแกรมจะแบ่งออกเป็น 3ส่วนคือ 
 
 ### 1.
   ส่วนที่ใช้ในการแสดงวันเดือนปีที่บันทึก รายละเอียด จำนวนรายรับและจำนวนรายจ่ายที่ผู้ใช้ได้กรอกไว้ในส่วนที่3 และสุดท้ายคือช่องจำนวนเงินทั้งหมด 
