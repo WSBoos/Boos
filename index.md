@@ -14,6 +14,8 @@ The program devide to 3 parts
 
 โปรแกรมจะแบ่งออกเป็น 3ส่วนคือ
 
+![Image](https://i.imgur.com/dGfH7bR.jpg)
+
 ### 1.
   The first is part used to show the date, detail of income and expense, amount of income and amount of expenses that users have entered in part 3 and the total amount box.
   
@@ -25,6 +27,9 @@ The program devide to 3 parts
   ส่วนปฎิทินให้ผู้ใช้งานสามราถเลือกวัน เดือน ปีตามที่ตนต้องการจะบันทึกและสามารถดูประวิติที่บันทึกไว้ในแต่ละวันที่ต้องการได้
 
 ### 3.
+
+![Image](https://i.imgur.com/V3zAuIe.jpg)
+
   The part that is used to fill in and show in part1 There are 3channels which are incomes box for inserting income amount, expenses box for inserting expense amount and the last box is notes box that can be used to fill in details that you want. There are 3 buttons below that is submit button is used to press to add more income-expense information and show in part1. The next one is delete button. It use to press to delete income and expense information in part1 by clicking on the history that you want to delete in part1 and pressing the delete button to delete it. The last one is summary button. Users can press this to display the total amount of money in each day. 
   
   ส่วนที่ใช้กรอกข้อมูลและนำไปแสดงบนส่วนที่1 ซึ่งจะมีอยู่3ช่องคือ ช่องIncomesไว้สำหรับใส่จำนวนเงินในส่วนของรายรับ, ช่องExpensesไว้สำหรับใส่จำนวนเงินในส่วนของรายจ่าย และช่องสุดท้ายคือช่องNotesใช้สำหรับกรอกรายละเอียดต่างๆได้ และยังมีอีก3ปุ่มด้านล่างคือ ปุ่มSubmitใช้สำหรับกดเพื่อเพิ่มข้อมูลรายรับ-รายจ่ายขึ้นไปแสดงในส่วนที่1 ต่อมาคือปุ่มDelete ใช้สำหรับกดเพื่อลบข้อมูลรายรับ-รายจ่ายในส่วนที่1 โดยการกดเลือกประวัติที่ต้องการลบในส่วนที่1และกดปุ่มDelete และปุ่มSummaryใช้กดเพื่อให้แสดงผลรวมจำนวนเงินทั้งหมดในแต่ละวัน
