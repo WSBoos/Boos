@@ -1,5 +1,7 @@
 ## โปรแกรมบันทึกรายรับ-รายจ่าย
 
+![Image](https://i.imgur.com/WepDreA.jpg)
+
 ### Overview
 
 Income and Expense Record Program is a program for record your income and expense daily or monthly or each year to save money and manage your own money with stability and sustainability.
@@ -37,9 +39,11 @@ The program devide to 3 parts
 ### About Code
 
 ```markdown
-`Code` text
+djksfj
+`code` text
 
 ```
 
 ### Known bugs
 
+![Image](https://i.imgur.com/l4FzB9a.jpg)
