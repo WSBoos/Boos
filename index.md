@@ -11,9 +11,13 @@ Income and Expense Record Program is a program for record your income and expens
 ### Advantages
 
 - User can delete some data that they want to delete.
+
 - It's easy to check data of other day.
+
 - User can insert income and expense in the same time.
+
 - This program has Note box to note something that you want.
+
 - This program is designed to be easy to use.
 
 - สามารถลบเพื่อแก้ไขข้อมูลที่ต้องการได้
@@ -25,8 +29,11 @@ Income and Expense Record Program is a program for record your income and expens
 ### Disadvantages
 
 - This program has no secure because the account can not be separated and it has no security system in the case that user share the computer with other people.
+
 - User can't change the size of window in this program.
+
 - User can't check summary of month or year.
+
 - Note box has limit of message that can show. 
 
 - ข้อมูลไม่ปลอดภัยเนื่องจากไม่สามารถแยกบัญชีในการใช้งานโปรแกรมของผู้ใช้และไม่มีการล็อครหัสผ่านในกรณีที่มีผู้ใช้งานอื่นใช้คอมพิวเตอร์ร่วมด้วย
